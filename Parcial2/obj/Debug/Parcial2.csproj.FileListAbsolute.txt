@@ -1,0 +1,10 @@
+C:\Users\Marjorie\Desktop\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Parcial2\obj\Debug\Parcial2.Form1.resources
+C:\Users\Marjorie\Desktop\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\Marjorie\Desktop\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\Marjorie\Desktop\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\Marjorie\Desktop\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\Marjorie\Desktop\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\Marjorie\Desktop\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\Marjorie\Desktop\Parcial2\obj\Debug\Parcial2.pdb
